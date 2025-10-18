@@ -24,6 +24,9 @@ We provide:
 
 You can directly use these files in Llama-Factory to reproduce the  **Fact Decomposition LLM** .
 
+## ⚙️ Full Framework of ARE
+
+You can directly refer the script of [RARR](https://github.com/anthonywchen/RARR) , we also plan release the whole script in few days.
 
 ## 📂 Resources
 
@@ -52,6 +55,6 @@ If you find our work useful, please cite:
 
 ## 📅 Coming Soon
 
-* 🧾 Full training scripts
+* 🧾 Full framework
 * 🧠 Pre-trained checkpoints
 * 🔍 Evaluation benchmarks
