@@ -1,7 +1,7 @@
 
 # 🧩 Atomic Fact Decomposition Helps Attributed Question Answering
 
-**Accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)**
+**Accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE) [paper link](https://arxiv.org/abs/2410.16708)**
 
 🚀 *Code is coming soon!*
 
