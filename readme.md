@@ -55,7 +55,3 @@ If you find our work useful, please cite:
 * 🧾 Full training scripts
 * 🧠 Pre-trained checkpoints
 * 🔍 Evaluation benchmarks
-
----
-
-Would you like me to make it more **formal (for academic style)** or  **concise and developer-friendly (for GitHub audience)** ? I can adapt it accordingly.
