@@ -23,3 +23,39 @@ We provide:
 * ✅ Well-constructed **dataset and metadata** (`dataset_info.json`)
 
 You can directly use these files in Llama-Factory to reproduce the  **Fact Decomposition LLM** .
+
+
+## 📂 Resources
+
+* `fact_decomposition.yaml` — Training configuration for Llama-Factory
+* `dataset_info.json` — Dataset description and structure
+* `data/` — Coming soon
+
+## 🧠 Citation
+
+If you find our work useful, please cite:
+
+
+```
+@ARTICLE{11159096,
+  author={Yan, Zhichao and Wang, Jiapu and Chen, Jiaoyan and Li, Xiaoli and Liang, Jiye and Li, Ru and Pan, Jeff Z.},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Atomic Fact Decomposition Helps Attributed Question Answering}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Question answering (information retrieval);Entropy;Electronic mail;Training;Large language models;Data mining;Timing;Symbols;Search engines;Robustness;Attributed Question Answer;Information Retrieval;Large Language Models},
+  doi={10.1109/TKDE.2025.3608716}}
+```
+
+
+## 📅 Coming Soon
+
+* 🧾 Full training scripts
+* 🧠 Pre-trained checkpoints
+* 🔍 Evaluation benchmarks
+
+---
+
+Would you like me to make it more **formal (for academic style)** or  **concise and developer-friendly (for GitHub audience)** ? I can adapt it accordingly.
